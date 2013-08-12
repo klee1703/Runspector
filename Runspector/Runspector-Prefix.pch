@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Runspector' target in the 'Runspector' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
